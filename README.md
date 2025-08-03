@@ -10,7 +10,7 @@ This project is a desktop-based attendance system developed in Python for the co
 - Admin access to complete attendance records in a structured format
 - Clean desktop GUI with company branding (logo and employee details)
 
- ![App Screenshot](app Image/screenshot.PNG)
+  ![App Screenshot](app-Image/screenshot.PNG)
 
 ## Technologies Used
 
